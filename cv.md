@@ -11,6 +11,14 @@
 
 ### About Myself:
 
+In 2019, I graduated from the Faculty of Sociology of Kazan Federal University. I entered the master's program at the same university in the direction of Sociology of Management of Innovation Processes. I almost finished my studies, but I realized that I did not want to pursue sociology as my profession, despite the fact that it is very interesting to study.
+
+During my master's degree, I worked as a media analyst and became interested in web development. I learned HTML and CSS, and then started learning JavaScript.
+
+I am interested in Frontend development, because I like to deal with the visual part of sites, adding interactive elements to them. Web development is both creative and technical, and it's very exciting.
+
+I hope that I will be able to upgrade my knowledge and become a professional developer.
+
 ---
 
 ### Education:
@@ -59,7 +67,7 @@ function squareSum(numbers) {
 
 - Basic HTML and HTML5 on the [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5) (completed)
 - Basic CSS on the [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css) (completed)
-- JavaScript on the [learn JavaScript](https://learn.javascript.ru/)
+- JavaScript on the [learn JavaScript](https://learn.javascript.ru/) (in progress)
 - RS Schools Course «JavaScript / Front-end. Stage 1» (in progress)
 
 ---
