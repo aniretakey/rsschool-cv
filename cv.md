@@ -23,17 +23,17 @@ I hope that I will be able to upgrade my knowledge and become a professional dev
 
 ### Education:
 
-**Kazan Federal University**
+- **Kazan Federal University**
 
-Sociology
+* Sociology
 
-2015 - 2019
+* 2015 - 2019
 
-**Kazan Federal University**
+- **Kazan Federal University**
 
-Sociology of innovation process management
+* Sociology of innovation process management
 
-2019 - 2021 (not completed)
+* 2019 - 2021 (not completed)
 
 ---
 
@@ -49,6 +49,7 @@ Sociology of innovation process management
 ### Code example:
 
 [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f/javascript)
+
 Complete the square sum function so that it squares each number passed into it and then sums the results together.
 
 ```
