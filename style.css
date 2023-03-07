@@ -1,3 +1,32 @@
 body {
   width: auto;
+  background: linear-gradient(-45deg, #f5b6a3, #f590aa);
+  font-family: Georgia, serif;
+  font-size: 18px;
+  color: #000000;
+  font-weight: 400;
+}
+
+main {
+  width: 70vh;
+  justify-content: center;
+}
+
+h1 {
+  font-family: Georgia, serif;
+
+  color: #000000;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.header-substring {
+  font-style: italic;
+  font-size: 22px;
+}
+
+.code {
+  border: 6px inset rgba(224,77,108,0.71);
+  border-radius: 10px;
+  padding: 5px 10px;
 }
